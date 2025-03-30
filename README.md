@@ -10,16 +10,22 @@ The performance leaves something to be desired and water does not really move li
 
 S : Sand
     Falls in a sand like way
+    
 W : Water
     Falls and sits on most things
+
 A : Stone
     Immovable and floats
+
 E : Empty
     Eraser
+
 V : Void
     Deletes anything that enters it
+
 G : Generator
     Clones the first thing that enters it
+
 T : Tree
     Grows up into branching leaves
 
