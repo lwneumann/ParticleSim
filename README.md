@@ -1,4 +1,5 @@
 ![Example](https://github.com/lwneumann/ParticleSim/blob/main/example.png)
+![Examplegif](https://github.com/lwneumann/ParticleSim/blob/main/example.gif)
 
 A simple particle simulator. The prior versions are kept to make referencing old implementations easier.
 
